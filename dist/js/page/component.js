@@ -1,0 +1,1 @@
+webpackJsonp([2,0],[function(e,n){Vue.component("anchored-heading",{render:function(e){return e("h"+this.level,"helloworld")},props:{level:{type:Number,required:!0}}})}]);

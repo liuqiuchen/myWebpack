@@ -1,0 +1,18 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "my-decription",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liuqiuchen",
+  "license": "ISC",
+  "devDependencies": {
+    "common.js": "^1.1.1",
+    "jsx-loader": "^0.13.2",
+    "url-loader": "^0.5.7",
+    "vue": "^2.0.7",
+    "webpack": "^1.13.3"
+  }
+}
